@@ -293,27 +293,21 @@ Smart route optimization platform using shortest path algorithms and interactive
 
 ---
 
-# 🏆 Achievements
+---
+
+# 🌟 Professional Snapshot
 
 <div align="center">
 
-🥇 IEEE Published Author
+| 🎓 Education | 📄 Publications | 📜 Patents | 💻 Projects |
+|:------------:|:---------------:|:----------:|:-----------:|
+| B.Tech CSE (Data Science) | IEEE Research Paper | 2 Published | AI • Web • Open Source |
 
-📜 Holder of Two Published Patents
-
-🤖 AI / Machine Learning Researcher
-
-📊 Data Science Enthusiast
-
-💻 Backend & Full Stack Developer
-
-🌱 Open Source Contributor
-
-🚀 Always Learning New Technologies
+| 🤖 Specialization | 🌱 Open Source | ⚡ Backend | 📊 Interests |
+|:----------------:|:--------------:|:----------:|:------------:|
+| AI & Machine Learning | IntelliView Contributor | FastAPI | Data Science, LLMs & Research |
 
 </div>
-
----
 
 # 📫 Connect With Me
 
@@ -352,3 +346,85 @@ Smart route optimization platform using shortest path algorithms and interactive
 ⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
+---
+
+# 🔬 Research & Publications
+
+## 📄 IEEE Conference Publication
+
+**Agricultural Crop Price Prediction using Machine Learning**
+
+> Developed a machine learning-based prediction framework for agricultural crop prices using ensemble learning techniques to improve forecasting accuracy and support data-driven agricultural decision-making.
+
+---
+
+## 📜 Published Patent
+
+### A Stacking Ensemble Machine Learning System and Method for Agricultural Crop Price Prediction
+
+Designed a stacking ensemble-based predictive framework combining multiple machine learning models for more accurate agricultural crop price prediction.
+
+---
+
+## 📜 Published Patent
+
+### System and Method for Detecting Artificial Intelligence Generated Voice Using Hybrid Acoustic and Linguistic Analysis
+
+Developed a hybrid framework integrating acoustic signal analysis and linguistic feature extraction for reliable detection of AI-generated voices.
+
+---
+
+# 🚀 Current Focus
+
+```text
+🧠 Large Language Models (LLMs)
+
+📊 Data Science
+
+🤖 Artificial Intelligence
+
+⚡ Backend Engineering
+
+🌍 Open Source Contribution
+
+📄 AI Research
+
+💡 Building Real-world Intelligent Systems
+```
+
+---
+
+# 💻 while(alive)
+
+```python
+while True:
+
+    Learn()
+
+    Build()
+
+    Research()
+
+    Contribute()
+
+    Improve()
+```
+
+    ---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=Vedantnawghare&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub profile!
+
+*"Code with curiosity. Build with purpose. Learn without limits."*
+
+</div>
+
