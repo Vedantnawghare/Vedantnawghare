@@ -82,3 +82,74 @@ me = VedantNawghare()
 - ⚡ FastAPI Backend Development
 - 🤖 Machine Learning Projects
 - 📊 Data Science Applications
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css" />
+</p>
+
+---
+
+### 🤖 Data Science & Artificial Intelligence
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+<p>
+
+- 📊 NumPy
+- 🐼 Pandas
+- 📈 Matplotlib
+- 📉 Scikit-Learn
+- 🧠 Transformers
+- 🔗 LangChain
+- 👁 OpenCV
+
+</p>
+
+---
+
+### ⚙ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+</p>
+
+<p>
+
+- REST APIs
+- JWT Authentication
+- Redis
+- Celery
+
+</p>
+
+---
+
+### 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+</p>
+
+---
+
+### 🗄 Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite" />
+</p>
+
+---
+
+### ☁ DevOps & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
