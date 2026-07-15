@@ -478,6 +478,16 @@ def life():
 </div>
 
 ---
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vedantnawghare/Vedantnawghare/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
+
 
 # ❤️ Thanks For Visiting
 
@@ -489,16 +499,3 @@ def life():
 
 </div>
 
-<!--
-===========================================
-      CONTRIBUTION SNAKE (AFTER ACTION)
-===========================================
-
-Add this AFTER configuring GitHub Actions.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Vedantnawghare/Vedantnawghare/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-===========================================
--->
