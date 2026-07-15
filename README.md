@@ -153,3 +153,202 @@ me = VedantNawghare()
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🧠 AI-Powered Dementia Assistant
+
+AI healthcare assistant using LLMs with conversational memory and intelligent support.
+
+**Tech Stack**
+
+`Python` `FastAPI` `LLMs` `RAG` `SQLite`
+
+⭐ **Current Research Project**
+
+</td>
+
+<td width="50%">
+
+### 🌾 Crop Price Prediction
+
+Machine Learning model for agricultural crop price prediction using ensemble learning.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Pandas`
+
+📄 **IEEE Published Paper**
+
+📜 **Published Patent**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎙 AI Voice Detection
+
+Hybrid acoustic and linguistic analysis for detecting AI-generated voices.
+
+**Tech Stack**
+
+`Python` `Machine Learning` `Audio Processing`
+
+📜 **Published Patent**
+
+</td>
+
+<td width="50%">
+
+### 💳 SmartBill Pro
+
+Modern responsive billing system with invoice generation and bill history.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ IntelliView Open Source
+
+Backend contributions focused on Redis abstraction, API reliability and scalable architecture.
+
+**Tech Stack**
+
+`FastAPI`
+
+`Redis`
+
+`Docker`
+
+`GitHub`
+
+</td>
+
+<td width="50%">
+
+### 📍 Route Optimization
+
+Smart route optimization platform using shortest path algorithms and interactive maps.
+
+**Tech Stack**
+
+`React`
+
+`FastAPI`
+
+`PostgreSQL`
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vedantnawghare&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantnawghare&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vedantnawghare&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vedantnawghare&theme=github-dark&hide_border=true" />
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+🥇 IEEE Published Author
+
+📜 Holder of Two Published Patents
+
+🤖 AI / Machine Learning Researcher
+
+📊 Data Science Enthusiast
+
+💻 Backend & Full Stack Developer
+
+🌱 Open Source Contributor
+
+🚀 Always Learning New Technologies
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=leetcode" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> **"Turning ideas into intelligent solutions through Data Science, Research, and Software Engineering."**
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
+
+---
+
+<div align="center">
+
+> **"Turning ideas into intelligent solutions through Data Science, Research, and Software Engineering."**
+
+⭐ If you like my work, consider giving a star to my repositories!
+
+</div>
