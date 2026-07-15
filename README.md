@@ -383,7 +383,7 @@ while(alive){
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/vedant-nawghare-512966320/)">
+<a href="https://www.linkedin.com/in/vedant-nawghare-512966320/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
@@ -395,13 +395,13 @@ while(alive){
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="[https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/vedant_nawghare/)">
+<a href="https://leetcode.com/u/vedant_nawghare/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="[https://www.geeksforgeeks.org/user/YOUR_USERNAME](https://www.geeksforgeeks.org/profile/vedantnawsqic)">
+<a href="https://www.geeksforgeeks.org/profile/vedantnawsqic">
 <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50"/>
 </a>
 
