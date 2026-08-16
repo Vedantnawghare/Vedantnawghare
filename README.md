@@ -1,84 +1,103 @@
+Yep bro — **copy everything below directly into your GitHub profile `README.md`**. No extra explanation needed.
+
+````markdown
 <div align="center">
 
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hi, I'm Vedant Nawghare
-
-### Data Science Undergraduate • AI/ML Researcher • Backend & Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Data+Science+Student;Artificial+Intelligence;Machine+Learning;Large+Language+Models;FastAPI+Developer;Open+Source+Contributor;IEEE+Published+Author;Holder+of+Two+Published+Patents;Building+Intelligent+Systems"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00D9FF&height=230&section=header&text=Vedant%20Nawghare&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&descAlign=50" width="100%"/>
 
 <br>
 
-> ### 🚀 Building intelligent software through Data Science, Research & Engineering.
+<a href="https://github.com/Vedantnawghare">
+<img src="https://img.shields.io/badge/GitHub-Vedantnawghare-181717?style=for-the-badge&logo=github"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/vedant-nawghare-512966320/">
+<img src="https://img.shields.io/badge/LinkedIn-Vedant%20Nawghare-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+&nbsp;
+<a href="mailto:vedant.nawghare35@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=Vedantnawghare&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Data+Science+Undergraduate;AI%2FML+Engineer;Generative+AI+%26+LLM+Enthusiast;Backend+%26+FastAPI+Developer;Machine+Learning+Researcher;IEEE+Published+Researcher;Patent+Holder;Building+Intelligent+Systems"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Vedantnawghare&label=PROFILE+VIEWS&color=0A84FF&style=for-the-badge"/>
+
+<br><br>
+
+> **Building intelligent systems at the intersection of Data Science, AI/ML, Research & Software Engineering.**
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```python
 class VedantNawghare:
 
     def __init__(self):
-
         self.name = "Vedant Nawghare"
+        self.education = "B.Tech CSE — Data Science"
+        self.location = "Nagpur, India"
 
-        self.education = "B.Tech Computer Science Engineering (Data Science)"
-
-        self.specialization = "Data Science"
-
-        self.interests = [
+        self.domains = [
             "Artificial Intelligence",
             "Machine Learning",
-            "Large Language Models",
+            "Data Science",
+            "Generative AI",
             "Backend Engineering",
-            "Full Stack Development",
-            "Open Source"
+            "Full Stack Development"
         ]
 
         self.languages = [
             "Python",
             "Java",
-            "JavaScript",
             "C",
-            "C++"
+            "C++",
+            "JavaScript"
         ]
 
         self.current_focus = [
-            "LLMs",
+            "LLMs & Generative AI",
+            "RAG Systems",
             "FastAPI",
-            "AI Healthcare",
-            "Research",
-            "Data Science"
+            "Machine Learning",
+            "AI Research",
+            "Backend Systems"
         ]
 
-        self.achievements = [
-            "IEEE Published Author",
-            "Two Published Patents"
+        self.interests = [
+            "Building AI-powered products",
+            "Research & Publications",
+            "Open Source",
+            "Problem Solving"
         ]
 
-    def motto(self):
+    def philosophy(self):
         return "Learn • Build • Research • Repeat"
 
-me = VedantNawghare()
-```
+
+vedant = VedantNawghare()
+````
 
 ---
 
-# 🌟 Professional Snapshot
+# 🚀 Professional Highlights
 
 <div align="center">
 
-| 🎓 Education | 📄 Publication | 📜 Patents | 💻 Development |
-|:------------:|:--------------:|:----------:|:--------------:|
-| B.Tech CSE (Data Science) | IEEE Published Paper | 2 Published | Backend & Full Stack |
+|        🎓 Education        |    🤖 AI/ML    |       📄 Research       | 📜 Intellectual Property |
+| :------------------------: | :------------: | :---------------------: | :----------------------: |
+| B.Tech CSE<br>Data Science | AI • ML • LLMs | IEEE Published Research |     Published Patents    |
 
-| 🤖 AI | 📊 Data Science | 🌱 Open Source | 🚀 Current Focus |
-|:------:|:---------------:|:--------------:|:---------------:|
-| ML • LLMs • NLP | Analytics • ML | IntelliView | AI Healthcare |
+|     💻 Engineering     |    ⚡ Backend   |    🌱 Open Source    |        🏆 Hackathons       |
+| :--------------------: | :------------: | :------------------: | :------------------------: |
+| Full Stack Development | FastAPI • APIs | GitHub Contributions | Adobe University Hackathon |
 
 </div>
 
@@ -86,104 +105,102 @@ me = VedantNawghare()
 
 # 🔬 Research & Publications
 
-## 📄 IEEE Research Publication
+### 📄 IEEE Research Publication
 
-### Agricultural Crop Price Prediction using Machine Learning
+**Agricultural Crop Price Prediction using Machine Learning**
 
 Developed a machine learning based crop price prediction framework using ensemble learning techniques to improve agricultural forecasting and decision making.
 
 ---
 
-## 📜 Published Patent
+### 📜 Published Patent
 
-### A Stacking Ensemble Machine Learning System and Method for Agricultural Crop Price Prediction
+**A Stacking Ensemble Machine Learning System and Method for Agricultural Crop Price Prediction**
 
 Designed a stacking ensemble machine learning framework that combines multiple predictive models for improving agricultural crop price prediction.
 
 ---
 
-## 📜 Published Patent
+### 📜 Published Patent
 
-### System and Method for Detecting Artificial Intelligence Generated Voice Using Hybrid Acoustic and Linguistic Analysis
+**System and Method for Detecting Artificial Intelligence Generated Voice Using Hybrid Acoustic and Linguistic Analysis**
 
-Designed a hybrid AI voice detection framework using both acoustic signal analysis and linguistic feature extraction to identify synthetic speech with improved accuracy.
-
----
-
-# 🚀 Currently Working On
-
-- 🧠 AI Powered Dementia Detection & Conversational Assistant
-- 🤖 Large Language Models (LLMs)
-- 📊 Data Science Projects
-- ⚡ FastAPI Backend Development
-- 🌱 Open Source Contributions
-- 📄 AI Research
+Designed a hybrid AI voice detection framework using acoustic signal analysis and linguistic feature extraction to identify AI-generated synthetic speech.
 
 ---
 
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
+# 🧠 AI / ML & Data Science
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css" />
-</p>
 
----
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
-## 🤖 Artificial Intelligence & Data Science
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 <div align="center">
 
-| Machine Learning | Data Science | AI |
-|-----------------|-------------|----|
-| Scikit-Learn | Pandas | Transformers |
-| NumPy | Matplotlib | LangChain |
-| OpenCV | Data Analysis | NLP |
+| Machine Learning | Data Science  | Generative AI |
+| :--------------- | :------------ | :------------ |
+| Scikit-Learn     | NumPy         | LLMs          |
+| Machine Learning | Pandas        | RAG           |
+| Deep Learning    | Matplotlib    | NLP           |
+| OpenCV           | Data Analysis | LangChain     |
 
 </div>
 
 ---
 
-## ⚙ Backend Development
+# ⚙️ Backend & Software Engineering
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,docker"/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,redis,docker" />
+
+</p>
+
+<div align="center">
+
+**Python • FastAPI • REST APIs • WebSockets • Node.js • Express.js • Redis • Docker**
+
+</div>
+
+---
+
+# 🎨 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
 
 </p>
 
 ---
 
-## 🎨 Frontend Development
+# 🗄️ Databases
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite" />
 
 </p>
 
 ---
 
-## 🗄 Database
+# 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
 
 </p>
 
 ---
 
-## 🛠 Tools
+# 🛠️ Tools & Developer Ecosystem
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,docker" />
 
 </p>
 
@@ -192,32 +209,40 @@ Designed a hybrid AI voice detection framework using both acoustic signal analys
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🧠 AI Dementia Assistant
+## 🧠 Lumi — AI Dementia Companion
 
-AI powered healthcare assistant using LLMs with conversational memory and intelligent support.
+AI-powered conversational companion designed for dementia-care scenarios.
 
-**Tech**
+**Focus**
 
-Python • FastAPI • LLM • RAG
+* Conversational AI
+* LLMs
+* Memory Systems
+* NLP
+* AI-assisted Interaction
 
-⭐ Current Research
+**Domain:** AI Healthcare
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🌾 Crop Price Prediction
+## 🎙️ AI Voice Detection
 
-Machine Learning based crop prediction using stacking ensemble models.
+Hybrid system for detecting AI-generated voice using acoustic and linguistic analysis.
 
-📄 IEEE Publication
+**Focus**
 
-📜 Patent
+* Audio Analysis
+* Machine Learning
+* Acoustic Features
+* Linguistic Features
+
+📜 **Published Patent**
 
 </td>
 
@@ -225,69 +250,88 @@ Machine Learning based crop prediction using stacking ensemble models.
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🎙 AI Voice Detection
+## 📍 Route Optimization Platform
 
-Hybrid acoustic & linguistic AI generated voice detection framework.
+Intelligent route optimization platform for solving real-world routing problems.
 
-📜 Patent
+**Stack**
 
-Python
-
-Machine Learning
-
-</td>
-
-<td width="50%">
-
-## 💳 SmartBill Pro
-
-Responsive billing system with invoice generation and billing history.
-
-HTML
-
-CSS
-
-JavaScript
+* Python
+* FastAPI
+* Google OR-Tools
+* PostgreSQL
+* OpenStreetMap
+* React
+* Leaflet
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ## ⚡ IntelliView
 
-Open Source Contributions
+Backend and distributed-system development involving caching, Redis, workers and API infrastructure.
 
-Redis
+**Focus**
 
-FastAPI
-
-Docker
-
-</td>
-
-<td width="50%">
-
-## 📍 Route Optimization
-
-React
-
-FastAPI
-
-PostgreSQL
-
-Shortest Path Algorithms
+* FastAPI
+* Redis
+* Docker
+* Caching
+* Distributed Systems
+* Testing
 
 </td>
 
 </tr>
 
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌾 Crop Price Prediction
+
+Machine learning system for agricultural crop price forecasting using ensemble learning.
+
+📄 **IEEE Research**
+
+📜 **Published Patent**
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🎙️ Deepfake Voice Detection
+
+Machine-learning research focused on detecting synthetic/deepfake speech using audio-based approaches.
+
+**Dataset:** WaveFake
+
+**Focus:** Audio ML • Deep Learning • AI Security
+
+</td>
+
+</tr>
 </table>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+| Achievement                            | Details                                       |
+| :------------------------------------- | :-------------------------------------------- |
+| 📄 **IEEE Publication**                | Published research in Machine Learning        |
+| 📜 **Published Patent**                | AI-generated voice detection                  |
+| 📜 **Published Patent**                | Agricultural crop price prediction            |
+| 🏆 **Adobe University Hackathon 2026** | Advanced to Prototype Development Round       |
+| 🤖 **AI/ML Experience**                | Backend, ML & AI engineering projects         |
+| 🌱 **Open Source**                     | Contributions to real-world software projects |
+
+</div>
 
 ---
 
@@ -295,17 +339,9 @@ Shortest Path Algorithms
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedantnawghare&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Vedantnawghare&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantnawghare&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Vedantnawghare&theme=github-dark-blue&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantnawghare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -313,66 +349,75 @@ Shortest Path Algorithms
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vedantnawghare&theme=github-dark&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=Vedantnawghare&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vedantnawghare&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vedantnawghare&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 📈 Coding Philosophy
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Research();
-
-    Solve();
-
-    Contribute();
-
-    Repeat();
-
-}
-```
+<img src="https://github-profile-trophy.vercel.app/?username=Vedantnawghare&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🐍 Contribution Snake
 
 <div align="center">
 
-| Goal | Status |
-|:-----|:------:|
-| 📄 Publish More Research Papers | 🚀 |
-| 🤖 Build Production AI Applications | 🚀 |
-| 🌱 Contribute to Open Source | 🚀 |
-| 🧠 Master LLMs & RAG Systems | 🚀 |
-| ⚡ Strengthen DSA & System Design | 🚀 |
-| 💼 Crack a Top Software / AI Internship | 🚀 |
+<img src="https://raw.githubusercontent.com/Vedantnawghare/Vedantnawghare/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 2026 Focus
+
+<div align="center">
+
+| Goal                                      | Status |
+| :---------------------------------------- | :----: |
+| 🧠 Master Generative AI & LLM Systems     |   🚀   |
+| 🤖 Build Production-Grade AI Applications |   🚀   |
+| ⚡ Strengthen Backend & System Design      |   🚀   |
+| 💻 Improve DSA & Problem Solving          |   🚀   |
+| 📄 Continue AI/ML Research                |   🚀   |
+| 🌱 Contribute to Open Source              |   🚀   |
+| 🏆 Perform Strongly in Hackathons         |   🚀   |
+
+</div>
+
+---
+
+# 💡 Engineering Philosophy
+
+<div align="center">
+
+### **Learn → Build → Break → Debug → Research → Improve → Repeat**
+
+<br>
+
+> *"The best way to learn technology is to build something that needs it."*
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
@@ -380,25 +425,25 @@ while(alive){
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+   
 
 <a href="https://www.linkedin.com/in/vedant-nawghare-512966320/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+   
 
 <a href="mailto:vedant.nawghare35@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+   
 
 <a href="https://leetcode.com/u/vedant_nawghare/">
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+   
 
 <a href="https://www.geeksforgeeks.org/profile/vedantnawsqic">
 <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="50"/>
@@ -408,93 +453,17 @@ while(alive){
 
 ---
 
-# 💡 Random Developer Quote
-
 <div align="center">
 
-> **"Data tells the story. Intelligence writes the future."**
+### 🚀 Building. Learning. Researching. Engineering.
+
+<br>
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A84FF,100:00D9FF&height=120&section=footer" width="100%"/>
 
 </div>
-
----
-
-# ☕ Fun Fact
-
-```python
-def life():
-
-    while True:
-
-        learn()
-
-        build()
-
-        debug()
-
-        coffee()
-
-        repeat()
 ```
-
----
-
-# 📚 Favorite Domains
-
-<div align="center">
-
-🧠 Artificial Intelligence
-
-📊 Data Science
-
-🤖 Machine Learning
-
-💬 Large Language Models
-
-⚙ Backend Engineering
-
-🌐 Full Stack Development
-
-🌱 Open Source
-
-📄 Research
-
-</div>
-
----
-
-# ⚡ Profile Summary
-
-<div align="center">
-
-| Experience | Focus |
-|------------|-------|
-| 📄 IEEE Published Author | Artificial Intelligence |
-| 📜 Two Published Patents | Data Science |
-| 💻 Full Stack Projects | Backend Engineering |
-| 🤖 AI Research | Machine Learning |
-| 🌱 Open Source | FastAPI |
-
-</div>
-
----
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vedantnawghare/Vedantnawghare/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
-</div>
-
-
-# ❤️ Thanks For Visiting
-
-<div align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BFFF&height=120&section=footer"/>
-
-</div>
-
