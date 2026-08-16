@@ -18,7 +18,7 @@
 
 # 💫 About Me
 
-```python
+
 class VedantNawghare:
 
     def __init__(self):
@@ -447,7 +447,7 @@ Audio ML • Deep Learning • AI Security
 
 <div align="center">
 
-```text
+text
 while(alive) {
 
     Learn();
@@ -458,7 +458,7 @@ while(alive) {
     Repeat();
 
 }
-```
+
 
 ### **Learn • Build • Research • Repeat**
 
@@ -511,4 +511,4 @@ while(alive) {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0066FF,100:00D9FF&height=130&section=footer"/>
 
 </div>
-```
+
